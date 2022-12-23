@@ -1,0 +1,162 @@
+
+ul{
+    list-style-type: none;
+}
+.in{
+    color: rgb(161, 156, 156);
+    display: inline-block;
+}
+.t-links{
+    opacity: 0.9;
+    color: rgb(161, 156, 156);
+}
+button{
+    border: none;
+    transition: 0.5s;
+}
+
+.nav-brand{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.nav-brand-r{
+    font-weight: 700;
+    font-size: 50px;
+    padding-bottom: 10px ;
+    border-radius: 17px;
+   background-color: rgb(112, 59, 112);
+   background-color: rgb(97, 72, 97);
+}
+form{
+    padding: 15px;
+    border-radius: 17px;
+}
+.form-brand{
+    border-radius: 17px;
+}
+
+.recent-news-info{
+    font-weight: 650;
+    font-size: 22px;
+}
+.container{
+    border-radius: 17px;
+}
+img{
+    border-radius: 17px;
+}
+.latest-news-a{
+     font-weight: 700;
+}
+.story-a{
+    width: 100%;
+    height: 100%;
+    background-image: url(images/top-stories-1.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+a:hover{
+    text-decoration: none;
+}
+.story-b{
+    width: 100%;
+    height: 50%;
+    background-image: url(images/subscribe-popup-img.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.story-c{
+    width: 100%;
+    height: 50%;
+    background-image: url(images/top-stories-3.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.trending-story{
+    font-size: 20px;
+    font-weight: 530;
+}
+.video-info{
+    font-size: 13px;
+    font-weight: 550;
+}
+.videos{
+    background-color: black;
+    padding: 30px 0px;}
+.add-info{
+    font-size: 20px;
+}
+.tending-news{
+    border-radius:17px;
+    transition: 0.5s ease;
+}
+.trending-img{
+    transition:ease 0.5s;
+}
+.trending-img:hover{
+  height: auto;
+  width: 100%;
+}
+.tending-news:hover{
+    height: auto;
+    width: 100%;
+
+}
+.add-form-info{
+    font-weight: 530;
+}
+.add-form,.add-li,.trending-story{
+     transition: 0.4s ease;
+     border-radius: 17px;
+}
+.add-form:hover{
+    height: auto;
+  width: 100%;
+}
+.trending-story:hover{
+
+    height: auto;
+    width: 100%;
+}
+.add-li:hover{
+    height: auto;
+    width: 100%;
+}
+.add-table{
+    transition: 0.6s ease;
+}
+.add-table:hover{
+     background-color: red;
+     color: white;
+}
+.footer{
+    background-color: #000000;
+     padding-bottom: 15px;
+}
+.footer-link{
+    transition: 0.4s ease;
+    color: rgb(141, 137, 137);
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: red;
+    text-decoration: none;
+}
+.footer-bottom-link{
+    display: inline;
+}
+.f-contact{
+    color: rgb(158, 152, 152);
+    text-decoration: none;
+    transition: 0.5s ease;
+
+}
+.f-contact:hover{
+    color: red;
+    font-size: 17px;
+    text-decoration: none;
+}

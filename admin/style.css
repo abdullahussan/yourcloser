@@ -1,0 +1,35 @@
+.nav-brand{
+    font-size: 40px;
+
+}
+ul{
+    list-style-type: none;
+
+}
+button{
+    border: none;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+.admin-li-h{
+    background-color: rgb(218, 171, 218);
+   border-radius: 15px;
+   box-shadow: 5px 5px 5px rgb(146, 140, 140);
+ 
+}
+.admin-li{
+    background-color:rgb(196, 191, 191);
+   border-radius: 15px;
+   box-shadow: 5px 5px 5px rgb(146, 140, 140);
+ 
+}
+.admin-link-h{
+    color: rgb(128, 68, 128);
+    font-weight: 600;
+    text-decoration: none;
+   
+}
